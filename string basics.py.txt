@@ -1,0 +1,12 @@
+def main():
+    string= "programmer"
+    print len (string)
+
+if __name__ == '__main__':
+    main()
+*** Remote Python engine  is active ***
+>>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+10
+>>>
