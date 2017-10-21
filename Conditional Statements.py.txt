@@ -1,0 +1,11 @@
+ def main():
+    age=int(input("enter the age"))
+    if(age<20):
+     print("age is not eligible")
+    elif(age>20):
+     print("age is eligible")
+    pass
+*** Remote Interpreter Reinitialized  ***
+>>> 
+age is eligible
+>>>

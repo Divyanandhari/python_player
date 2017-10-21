@@ -1,0 +1,8 @@
+def main():
+  mystring="programmer"
+  print(mystring.find("p"))
+  pass
+*** Remote Interpreter Reinitialized  ***
+>>> 
+0
+>>>
